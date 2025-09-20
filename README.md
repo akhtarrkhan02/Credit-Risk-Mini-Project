@@ -4,7 +4,7 @@
 Explore origination-time factors related to loan default.
 
 ## Data
-- File: data/loan.csv
+- File: https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset?select=loan(loan.csv)
 - Key fields used: loan_amnt, funded_amnt, term, int_rate, grade, sub_grade, annual_inc, dti, fico_range_low/high, revol_util, open_acc, total_acc, home_ownership, purpose, emp_length, loan_status
 
 ## Target Definition
